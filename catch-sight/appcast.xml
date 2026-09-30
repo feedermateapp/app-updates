@@ -5,12 +5,12 @@
     <description>Appcast update feed for BoatHUD / CatchSight</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0+21</title>
+      <title>Version 1.1.0+22</title>
       <description>Latest version release with Drift database migration, telemetry and analytics.</description>
-      <pubDate>Wed, 30 Sep 2026 20:11:00 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 20:38:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/apps/internaltest/4700708218971170577"
-        sparkle:version="1.1.0+21"
+        sparkle:version="1.1.0+22"
         sparkle:os="android" />
     </item>
   </channel>
