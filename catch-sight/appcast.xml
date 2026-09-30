@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BoatHUD App Updates</title>
+    <description>Appcast update feed for BoatHUD / CatchSight</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0+18</title>
+      <description>Initial version release with catch tracking and telemetry.</description>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/apps/internaltest/4700708218971170577"
+        sparkle:version="1.0.0+18"
+        sparkle:os="android" />
+    </item>
+  </channel>
+</rss>
